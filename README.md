@@ -1,4 +1,4 @@
-# Simple macro using Python, VScode
+# Simple macro using Python
 ### Download for Python 
 > https://www.python.org/ 
 ### Download for VScode  
