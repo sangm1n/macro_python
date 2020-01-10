@@ -1,5 +1,4 @@
 # simple macro practice in python by sangmin
-
 import pyautogui
 import time
 
